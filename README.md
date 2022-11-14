@@ -12,3 +12,4 @@
 > Spring Boot 버전 : Spring Boot 2.7.5  
 > Java 버전 : java 11    
 > Gradle 버전: gradle-7.5.1
+
